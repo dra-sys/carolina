@@ -1,0 +1,113 @@
+.menu {
+	border: 1px solid #957a6b; 
+	border-radius : 29px 0px 29px 0px;
+	margin: 2%;
+  display: flex;
+  overflow: hidden;
+  width: 80%;
+}
+.header{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.header1{
+  font-size: 2.7rem;
+  font-weight: bold;
+}
+.content{
+	border: 1px solid #957a6b; 
+	background-color: #957a6b;
+	margin: 2%;
+  border-radius: 12px 12px 0 0;
+}
+.content1{
+	border: 1px solid #957a6b; 
+	background-color: #957a6b;
+	margin: 2%;
+  text-align: center;
+  font-size:21px ;
+}
+.content2{
+	border: 1px solid #957a6b; 
+	background-color: #957a6b;
+	margin: 2%;
+  border-radius: 12px 12px 0 0;
+  display: flex;
+}
+.homefoto{
+  display: flex;
+  flex-direction: column;
+  margin: 2%;
+  padding-top: 3%;
+  padding-left: 3%;
+  padding-bottom: 3%;
+}
+.publicatiiimg{
+  width: 97%;
+  height: 97%;
+ 
+}
+.row{
+  display: table-row;
+  
+  
+ 
+}
+.row1{
+  display: flex;
+}
+.item{
+  display: table-cell;
+ align-items: center;
+  width: fit-content;
+}
+
+.text{
+  font-size: 1.4rem;
+  text-align: justify;
+  margin-top: 1%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.menuitem{
+  width: 20%;
+  text-align: center;
+  font-size: 25px;
+  background-color: #957a6b;
+}
+.active{
+   width: 20%;
+   text-align: center;
+   font-size: 25px;
+   background-color: #6b574d;
+   color: aliceblue;
+}
+.galerie{
+  border: 1px;
+  display: table;
+  width: 90%;
+margin: auto;
+ 
+}
+.gallery{
+  margin: 0;
+}
+.imagindex{
+  height: 70%;
+  width: 80%;
+  margin-top: 10%;
+}
+     
+  a{
+    text-decoration: none;
+    color: #fff;
+  }
+.poezii{
+  margin: 3%;
+}
+.poeziiii{
+  height: 100%;
+  width: 90%;
+}
+
+  
