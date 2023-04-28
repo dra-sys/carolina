@@ -18,8 +18,9 @@
 	border: 1px solid #957a6b; 
 	background-color: #957a6b;
 	margin: 2%;
-  border-radius: 12px 12px 0 0;
+  border-radius: 12px ;
 }
+
 .content1{
 	border: 1px solid #957a6b; 
 	background-color: #957a6b;
@@ -109,5 +110,6 @@ margin: auto;
   height: 100%;
   width: 90%;
 }
+
 
   
